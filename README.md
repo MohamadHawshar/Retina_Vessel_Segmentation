@@ -9,3 +9,4 @@ In this work, we propose a method for retinal vessel segmentation based on U-net
 We concluded that the performance of the two architectures Attention U-net and Unet++ gave close results, with Attention U-net slightly outperforming Unet++ on most measures.
 For the full report check raport.pdf
 
+![download](https://user-images.githubusercontent.com/60289580/211958332-459bb0d5-21b0-452e-8016-5e09518220b8.png)
